@@ -1,0 +1,28 @@
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+label {
+  font-size: 0.8rem;
+  color: #333;
+}
+
+.bg-light-red {
+  background-color: #ffaaaa;
+}
+
+.top-bar {
+    background-color: #232323;
+}
+
+.top-bar ul li {
+    list-style-type: none;
+    color: white;
+    padding: 2rem;
+    display: inline-block;
+}
+
+.top-bar ul li:hover {
+    color: black;
+    background-color: white;
+}
