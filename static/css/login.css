@@ -1,5 +1,5 @@
 body {
-    height: 100vh;
+    min-height: 100vh;
     background-image: linear-gradient(to top left, #21212B 0%, #4E4277 100%);
     color: white;
 }
@@ -27,4 +27,5 @@ form input {
     bottom: 0;
     max-width: initial;
     z-index: -1;
+    max-height: 15vh;
 }
